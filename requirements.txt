@@ -1,0 +1,8 @@
+TotalSegmentator
+torch>=2.0.0,<2.4
+torchvision
+torchaudio
+xmltodict
+setuptools
+pyvista
+fastapi[standard]
